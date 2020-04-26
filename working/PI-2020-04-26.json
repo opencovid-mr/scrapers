@@ -1,0 +1,259 @@
+{
+    "dati": [
+        {
+            "data": "16\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "2"
+        },
+        {
+            "data": "17\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "2"
+        },
+        {
+            "data": "18\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "3"
+        },
+        {
+            "data": "19\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "3"
+        },
+        {
+            "data": "20\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "3"
+        },
+        {
+            "data": "21\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "8"
+        },
+        {
+            "data": "22\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "10"
+        },
+        {
+            "data": "23\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "13"
+        },
+        {
+            "data": "24\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "16"
+        },
+        {
+            "data": "25\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "18"
+        },
+        {
+            "data": "26\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "21"
+        },
+        {
+            "data": "27\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "23"
+        },
+        {
+            "data": "28\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "26"
+        },
+        {
+            "data": "29\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "27"
+        },
+        {
+            "data": "30\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "27"
+        },
+        {
+            "data": "31\/03",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "29"
+        },
+        {
+            "data": "01\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "30"
+        },
+        {
+            "data": "02\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "33"
+        },
+        {
+            "data": "03\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "34"
+        },
+        {
+            "data": "04\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "34"
+        },
+        {
+            "data": "05\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "38"
+        },
+        {
+            "data": "06\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "38"
+        },
+        {
+            "data": "07\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "38"
+        },
+        {
+            "data": "08\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "41"
+        },
+        {
+            "data": "09\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "43"
+        },
+        {
+            "data": "10\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "44"
+        },
+        {
+            "data": "11\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "45"
+        },
+        {
+            "data": "12\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "49"
+        },
+        {
+            "data": "13\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "52"
+        },
+        {
+            "data": "14\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "52"
+        },
+        {
+            "data": "15\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "54"
+        },
+        {
+            "data": "16\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "57"
+        },
+        {
+            "data": "17\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "58"
+        },
+        {
+            "data": "18\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "60"
+        },
+        {
+            "data": "19\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "61"
+        },
+        {
+            "data": "20\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "63"
+        },
+        {
+            "data": "21\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "65"
+        },
+        {
+            "data": "22\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "66"
+        },
+        {
+            "data": "23\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "66"
+        },
+        {
+            "data": "24\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "69"
+        },
+        {
+            "data": "25\/04",
+            "dimessi": null,
+            "deceduti": null,
+            "positivi": "69"
+        }
+    ],
+    "titolo": "Andamento cumulato deceduti: Pisa",
+    "serie": [
+        {
+            "campo": "positivi",
+            "etichetta": "Deceduti",
+            "colore": "red"
+        }
+    ],
+    "legenda": true
+}
