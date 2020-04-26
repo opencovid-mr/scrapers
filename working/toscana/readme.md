@@ -1,4 +1,6 @@
-# Estrazione andamento comulato deceduti provinciale da https://www.ars.toscana.it/covid19/
+# Estrazione andamento comulato deceduti provinciale Toscana
+
+fonte dati: https://www.ars.toscana.it/covid19/
 
 
 A partire dal 18.04 disponibile grazie a OnData il numero di decessi giornaliero comunale
