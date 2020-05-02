@@ -9,7 +9,8 @@ Formato file .csv
         {
             doy=giorno dell'anno a partire dal 01.01.2020
             data=data nel formato gg/mm/aa 
-            decessi per data decesso=numero di decessi giornaliero reale
+            decessi per data notifica=numero di decessi giornaliero per data di notifica
+            decessi per data decesso=numero di decessi giornaliero per data di decesso
         },
 
 doy=giorno dell'anno a partire dal 01.01.2020
