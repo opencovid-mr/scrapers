@@ -1,4 +1,4 @@
-### Decessi ordinati per data di notifica e data di decesso
+## Decessi ordinati per data di notifica e data di decesso
 
 *"I decessi certificati positivi da Covid-19 vengono probabilmente riportati nel database gestito dalla Protezione Civile con un certo ritardo temporale"* (da [Verso una stima di morti dirette e indirette per Covid](https://www.scienzainrete.it/articolo/verso-stima-di-morti-dirette-e-indirette-covid/enrico-bucci-luca-leuzzi-enzo-marinari))
 
@@ -14,7 +14,7 @@ Fonte dati Regione Piemonte: https://twitter.com/PiemonteInforma/status/12566456
 
 Fonte dati Regione Puglia: https://www.regione.puglia.it/documents/65725/216593/Bollettino+Covid_02052020.pdf/
 
-# Attenzione: 
+### Attenzione: 
 * Dati estratti da grafici utilizzando [WebPlotDigitalizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
 * Regione Piemonte specifica che "i dati più recenti potrebbero essere sottostimati sia per il ritardo di notifica sia perché ancora non confermati dal test virologico"
 * Regione Puglia specifica che "i dati raccolti sono in continua fase di consolidamento e, come prevedibile in una situazione emergenziale, alcune informazioni possono risultare incomplete o possono essere oggetto di modifiche"
