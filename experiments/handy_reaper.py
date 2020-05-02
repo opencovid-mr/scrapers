@@ -1,5 +1,6 @@
-# WARNING: Funzionante ma richiede importante intervento umano (trasformabile in gioco)
+# WARNING: Funzionante ma richiede importante intervento umano (lasciato per ricordo, trasformabile in gioco)
 # Scopo: estrazione dati totale casi positivi (attivi) comunali Regione Piemonte da https://opengis.csi.it/tiles/
+# Versione funzionante e completamente automatizzata: https://github.com/to-mg/covid-19-piemonte
 
 
 from selenium import webdriver
