@@ -2,7 +2,7 @@
 
 *"I decessi certificati positivi da Covid-19 vengono probabilmente riportati nel database gestito dalla Protezione Civile con un certo ritardo temporale"* (da [Verso una stima di morti dirette e indirette per Covid](https://www.scienzainrete.it/articolo/verso-stima-di-morti-dirette-e-indirette-covid/enrico-bucci-luca-leuzzi-enzo-marinari))
 
-Alcune regioni stanno pubblicando grafici con i decessi Covid-19 positivi ordinati per data del decesso e qui verranno raccolte le estrazioni dei dati per renderli disponibili in formato machine readable. I dati realativi all'ultima settimana non vengono inseriti in quanto considerati significativamente non consolidati.
+Alcune regioni stanno pubblicando grafici con i decessi Covid-19 positivi ordinati per data del decesso e qui verranno raccolte le estrazioni dei dati per renderli disponibili in formato machine readable. I dati relativi all'ultima settimana non vengono inseriti in quanto considerati significativamente non consolidati.
 
 Formato file .csv
 
