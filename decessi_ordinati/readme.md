@@ -12,10 +12,10 @@ Formato file .csv
             decessi per data decesso=numero di decessi giornaliero per data di decesso
         
 
+Fonti:
+- Regione Piemonte: [PiemonteInforma Twitter](https://twitter.com/PiemonteInforma/status/1256645682473115649/photo/4)
 
-Fonte dati Regione Piemonte: https://twitter.com/PiemonteInforma/status/1256645682473115649/photo/4
-
-Fonte dati Regione Puglia: https://www.regione.puglia.it/documents/65725/216593/Bollettino+Covid_02052020.pdf/
+- Regione Puglia: [Bollettino Epidemiologico Regione Puglia 02/05/2020](https://www.regione.puglia.it/documents/65725/216593/Bollettino+Covid_02052020.pdf/)
 
 ### Attenzione: 
 * Dati estratti da grafici utilizzando [WebPlotDigitalizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
