@@ -13,6 +13,6 @@ Riferimenti:
 
 - Provincia di Trento: dati estratti da [OpenCovid-mr](https://github.com/opencovid-mr/scrapers/tree/master/working/trentino)
 
-- Comune di Brescia: dati estratti da (Sergio Cima - Scienza in Rete)[https://www.scienzainrete.it/articolo/dati-covid-19/sergio-cima/2020-04-19]
+- Comune di Brescia: dati estratti da [Sergio Cima - Scienza in Rete](https://www.scienzainrete.it/articolo/dati-covid-19/sergio-cima/2020-04-19)
 
 - Regione Umbria: dati estraibili da [Dashboard Umbria](https://coronavirus.regione.umbria.it/comuni#)
