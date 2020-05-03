@@ -1,6 +1,6 @@
 ## Decessi comunali (work in progress)
 
-Alcune regioni comunicano il dato dei decessi positivi con dettaglio comunale. Qui verranno raccolte alcune estrazioni dei dati per renderli disponibili in formato machine readable.
+Alcune regioni comunicano il dato dei decessi positivi con dettaglio comunale. L'Umbria ha un [dataset open e machine readable](https://github.com/Regione-Umbria/coronavirus), per le altre si possono fare delle estrazioni di dati, che verranno raccolte qui.
 
 
 Riferimenti:
@@ -15,4 +15,3 @@ Riferimenti:
 
 - Comune di Brescia: dati estratti da [Sergio Cima - Scienza in Rete](https://www.scienzainrete.it/articolo/dati-covid-19/sergio-cima/2020-04-19)
 
-- Regione Umbria: dati estraibili da [Dashboard Umbria](https://coronavirus.regione.umbria.it/comuni#)
