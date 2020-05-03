@@ -1,4 +1,4 @@
-## Decessi ordinati per data di decesso
+## Decessi ordinati per data di decesso (work in progress)
 
 *"I decessi certificati positivi da Covid-19 vengono probabilmente riportati nel database gestito dalla Protezione Civile con un certo ritardo temporale"* (da [Verso una stima di morti dirette e indirette per Covid](https://www.scienzainrete.it/articolo/verso-stima-di-morti-dirette-e-indirette-covid/enrico-bucci-luca-leuzzi-enzo-marinari))
 
