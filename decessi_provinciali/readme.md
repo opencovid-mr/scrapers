@@ -1,4 +1,4 @@
-## Decessi provinciali
+## Decessi provinciali (work in progress)
 
 Diverse regioni comunicano il dato dei decessi positivi con dettaglio provinciale. Qui verranno raccolte alcune estrazioni dei dati per renderli disponibili in formato machine readable.
 
@@ -22,3 +22,5 @@ Fonti:
 
 
 Attenzione: I decessi provinciali salvo diversa specifica sono da ritenersi inseriti in base al giorno di notifica, non in base al giorno di decesso
+
+Presto grazie a [Covid2Json](https://github.com/tohacknight/covid2json) disponibili altre regioni
