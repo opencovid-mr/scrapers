@@ -15,7 +15,11 @@ Fonti:
 
 - Regione Piemonte: elaborazione dati estratti da [Covid2Json](https://github.com/tohacknight/covid2json)
 
+- Regione Emilia Romagna: elaborazione dati estratti da [Covid2Json](https://github.com/tohacknight/covid2json)
+
 - Regione Toscana: elaborazione dati estratti da [OpenCovid-mr](https://github.com/opencovid-mr/scrapers/tree/master/working/toscana)
+
+- Regione Puglia: elaborazione dati estratti da [Covid2Json](https://github.com/tohacknight/covid2json)
 
 - Regione Siclia: elaborazione dati presenti nel repository di [Open Data Sicilia](https://github.com/opendatasicilia/COVID-19_Sicilia) con dati pubblicati dalla Regione Siciliana e dal Dipartimento Protezione Civile. [Licenza CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)
 
